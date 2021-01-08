@@ -114,4 +114,7 @@ footer {
     .card-head {
         padding: 40px 90px; 
     }
+    .attribution {
+        margin-top: -10px;
+    }
 }
