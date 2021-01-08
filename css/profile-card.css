@@ -5,6 +5,7 @@
 }
 
 body {
+    font-family: 'Kumbh Sans', sans-serif;
     background-color: hsl(185, 75%, 39%);
     overflow-x: hidden;
     overflow-y: hidden;
