@@ -104,8 +104,10 @@ footer {
         overflow-y: hidden;
     }
     .card {
-        position: relative;
+        /*position: relative;
         top: 0;
-        right: 10px;
+        right: 10px;*/
+        margin-top:-10px;
+        padding: 10px;
     }
 }
