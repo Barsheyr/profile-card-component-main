@@ -111,4 +111,7 @@ footer {
         top: 0;
         right: 10px;
     }
+    .card-head {
+        padding: 40px 90px; 
+    }
 }
