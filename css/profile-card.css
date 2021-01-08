@@ -107,9 +107,8 @@ footer {
         padding:10px;
     }
     .card {
-        /*position: relative;
+        position: relative;
         top: 0;
-        right: 10px;*/
-        margin-top:-10px;
+        right: 10px;
     }
 }
