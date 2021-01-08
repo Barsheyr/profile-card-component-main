@@ -103,11 +103,13 @@ footer {
     .body {
         overflow-y: hidden;
     }
+    main{
+        padding:10px;
+    }
     .card {
         /*position: relative;
         top: 0;
         right: 10px;*/
         margin-top:-10px;
-        padding: 10px;
     }
 }
